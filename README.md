@@ -28,6 +28,11 @@ Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"
 4. **Edit variabel SECRET_KEY di file kntlquiz/settings.py dengan 50 karakter random.** 
 5. **Jalankan File manage.py dengan argumen runserver** ```python3 manage.py runserver```
 
+## Default Login Admin
+
+Username: `root`
+Password: `rootdoexploit22`
+
 ## 🧑 Author
 
 - Facebook : <a href="https://www.facebook.com/michael.actt"> Michael Act</a>
