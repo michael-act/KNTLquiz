@@ -13,7 +13,7 @@ Direktori ini dibuat dan dikelola oleh <a href="https://github.com/michael-act">
 1. **Download / Clone Repository** ```https://github.com/michael-act/guessKNTL```
 2. **Masuk ke direktori ini** ```cd scrapper/```
 3. **Install Python3 Module** ```pip3 install -r ../requirements.txt```
-4. **Jika belum melakukan scrapping huruf-huruf KNTL, jalankan file scrappe.py (pada repo ini saya sudah scrapping dan bisa dilewati tahap ini).** ```python3 scrape.py```
+4. **Jika belum melakukan scrapping huruf-huruf KNTL, jalankan file scrape.py (pada repo ini saya sudah scrapping dan bisa dilewati tahap ini).** ```python3 scrape.py```
 
 ## 📝 License
 - Copyright © 2020 Michael Abraham Chan Tulenan.

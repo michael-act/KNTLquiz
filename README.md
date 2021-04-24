@@ -24,7 +24,7 @@ Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"
 
 1. **Download / Clone Repository** ```https://github.com/michael-act/guessKNTL```
 2. **Install Python3 Module** ```pip3 install -r requirements.txt```
-3. **Jika belum melakukan scrapping huruf-huruf KNTL, jalankan file scrappe.py (pada repo ini saya sudah scrapping dan bisa dilewati tahap ini).** ```python3 scrapper/scrape.py```
+3. **Jika belum melakukan scrapping huruf-huruf KNTL, jalankan file scrape.py (pada repo ini saya sudah scrapping dan bisa dilewati tahap ini).** ```python3 scrapper/scrape.py```
 4. **Edit variabel SECRET_KEY di file kntlquiz/settings.py dengan 50 karakter random.** 
 5. **Jalankan File manage.py dengan argumen runserver** ```python3 manage.py runserver```
 
