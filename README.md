@@ -6,7 +6,7 @@
 </p>
 
 ### 🤔 Repository apa ini?
-Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael Act </a>. **Aplikasi guessKNTL adalah aplikasi web yang menyediakan kuiz-kuiz dengan kata kunci KNTL, di Indonesia sendiri kata-kata KNTL dapat mengarah ke yang buruk. Aplikasi ini datang untuk menghilangkan pikiran buruk tersebut.**
+Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael Act </a>. **Aplikasi guessKNTL adalah aplikasi web yang menyediakan kuiz-kuiz dengan kata kunci KNTL, di Indonesia sendiri kata-kata KNTL dapat mengarah ke yang buruk. Aplikasi ini datang untuk mengurangi pikiran buruk tersebut.**
 
 ### 🤖 Bantuan aplikasi
 - Python v3.8.3rc1
