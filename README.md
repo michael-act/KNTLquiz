@@ -1,7 +1,7 @@
 <p align="center">
 	
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
-<a href="#"> Try App? </a>
+<a href="s.id/tebakanKNTL"> Try App? </a>
 
 </p>
 
