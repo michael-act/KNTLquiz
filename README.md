@@ -5,6 +5,10 @@
 
 </p>
 
+<p align="center">
+    <img src="Technical Explanation - guessKNTL.png"></img>
+</p>
+
 ### 🤔 Repository apa ini?
 Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael Act </a>. **Aplikasi guessKNTL adalah aplikasi web yang menyediakan kuiz-kuiz dengan kata kunci KNTL, di Indonesia sendiri kata-kata KNTL dapat mengarah ke yang buruk. Aplikasi ini datang untuk mengurangi pikiran buruk tersebut.**
 
